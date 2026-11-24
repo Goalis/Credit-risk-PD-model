@@ -1,0 +1,21 @@
+feature,iv,strength
+checking_account_status_code,0.6243143197861304,suspicious (check leakage)
+credit_history_code,0.2599343239235802,medium
+savings_account_code,0.2305104444160027,medium
+duration_months,0.19045176628022958,medium
+property_code,0.15002847545398174,medium
+purpose_code,0.1448157885824748,medium
+employment_since_code,0.12657529428896958,medium
+other_installment_plans_code,0.09284029465851301,weak
+housing_code,0.09024526494954524,weak
+credit_amount,0.0703555463727183,weak
+personal_status_sex_code,0.048485792366872844,weak
+foreign_worker_code,0.04242007520209401,weak
+age_years,0.03380198695701164,weak
+installment_rate_pct,0.029367527920377237,weak
+job_code,0.021783424711004473,weak
+other_debtors_guarantors_code,0.020383388222215127,weak
+num_existing_credits_code,0.007143106772778069,not predictive
+telephone_code,0.004784191607831868,not predictive
+num_dependents_code,0.000609995535323213,not predictive
+present_residence_since,0.00026469714478262625,not predictive
